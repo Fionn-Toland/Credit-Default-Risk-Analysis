@@ -35,9 +35,6 @@ Predict which credit card customers are likely to default, using machine learnin
 <img width="614" height="463" alt="random forest" src="https://github.com/user-attachments/assets/f001b6da-a412-4540-acf9-f66c44461bfe" />
 
 **Interpretable Ranking of Risk Drivers**  
-<img width="616" height="463" alt="image" src="https://github.com/user-attachments/assets/0386c4db-1ca2-4cae-9d62-b18e343739dc" />
-
-
-
+https://github.com/Fionn-Toland/Credit-Default-Risk-Analysis/blob/main/decision%20tree.png
 
 ---
