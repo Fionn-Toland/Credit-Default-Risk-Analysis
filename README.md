@@ -29,6 +29,7 @@ Predict which credit card customers are likely to default, using machine learnin
 - Professional documentation with clear visuals  
 
 ### 📊 Example Visual
-*(Insert screenshot of feature importance or stress test here)*
+
+
 
 ---
